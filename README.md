@@ -4,4 +4,5 @@
 
 ## Salvando 
 
-* comando git push 
+* comando git push
+* comando git pull
